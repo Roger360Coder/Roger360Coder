@@ -1,4 +1,4 @@
- 👋 Hi, I’m Roger360Coder and I'm 13 years old.
+ 👋 Hi, I’m Shree Hande and I'm 16 years old.
 - I’m interested in games my favourite console is PS(play station) and I'm also interested in sports.
 - I’m currently learning Python but I also want to learn C++ and Base 24.
 - I have been making a lot of apps and code for simple daily problems.
